@@ -2,15 +2,15 @@
 
 <h3 align="center">A Product Folk from India</h3>
 
-- 🌱 Working on **Electronics**
+- 🌱 Working on **Wireless Communication stakcs**
 
-- 👯 I’m looking to collaborate on **Electronics, IoT and control for avionics**
+- 👯 I’m looking to collaborate on **Electronics, IoT and Linux**
 
 - 👨‍💻 My Portfolio [iamnarendrans.github.io](https://iamnarendrans.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@iamnarendrans](https://medium.com/@iamnarendrans)
 
-- 💬 Ask me about **Python, IoT, Microcontrollers, Control System, Hardware Design**
+- 💬 Ask me about **Python, IoT, Microcontrollers, Wireless stacks, 5G/LTE, Embedded**
 
 - 📫 How to reach me **iamnarendrans@outlook.com**
 
